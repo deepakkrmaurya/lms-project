@@ -1,0 +1,48 @@
+{
+    "courses":[
+        {
+            "id":1,
+            "title":"Guiter Fundamentals",
+            "slug":"guiter-fundamentals",
+            "descrtption":"Learn the basics of playing guitar with our comprehensive brginner's course",
+            "price":99.99,
+            "instructor":"john Doe",
+            "isFeatured":true,
+            "image":"/courses/guiter.jpg"
+
+        },
+        {
+            "id":1,
+            "title":"Guiter Fundamentals",
+            "slug":"guiter-fundamentals",
+            "descrtption":"Learn the basics of playing guitar with our comprehensive brginner's course",
+            "price":99.99,
+            "instructor":"john Doe",
+            "isFeatured":true,
+            "image":"/courses/guiter.jpg"
+
+        },
+        {
+            "id":1,
+            "title":"Guiter Fundamentals",
+            "slug":"guiter-fundamentals",
+            "descrtption":"Learn the basics of playing guitar with our comprehensive brginner's course",
+            "price":99.99,
+            "instructor":"john Doe",
+            "isFeatured":true,
+            "image":"/courses/guiter.jpg"
+
+        },
+        {
+            "id":1,
+            "title":"Guiter Fundamentals",
+            "slug":"guiter-fundamentals",
+            "descrtption":"Learn the basics of playing guitar with our comprehensive brginner's course",
+            "price":99.99,
+            "instructor":"john Doe",
+            "isFeatured":true,
+            "image":"/courses/guiter.jpg"
+
+        }
+    ]
+}
